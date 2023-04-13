@@ -1,9 +1,20 @@
 ### Hi there 👋
 
+:fr:
+
+<p>Je m'appelle François Lyons, je suis passionnée de programmation. Je n'ai pas un parcours conventionnel du tout, j'ai commencé en tant que plombier :construction_worker: . Et j'ai décidé de poursuivre mes rêves et devenir un developpeur fullstack en autodidact. Pour le moment je travail sur des projets personnels mais un jour je réaliserai les votre :relaxed: ! Vous pouvez me contacter ici ou par email: <strong>lyons.fr55@gmail.com</strong>, je suis aussi disponible sur discord <strong>LyonsF#7324</strong>. Vous pouvez me contacter pour vos projets, ou vous pouvez me contacter si vous avez besoin d'aide en programmation, je sais à quel point c'est difficile d'être seul face à cette enorme montagne qu'est le monde de la porgrammtion.</p>
+<br />
+
+Vous pouvez me rejoindre sur [studytogether](https://app.studytogether.com/study-stats). Je travail ou y étude tous les jours, vous pouvez nous rejoindre si vous avez besoin de company pendant que vous étudiez ou travailler, il y a une super communauté!
+
+---
+
+:gb:
+
 <p>My name is François Lyons, i am a developper enthusiast. I didn't do a conventionnal path at all, i started as a plumber :construction_worker: . And then i decided to follow my dreams and being a self-taught full-stack developper. So far i'm working on personnal projects but someday i will make yours :relaxed: ! You can contact me here or by email: <strong>lyons.fr55@gmail.com</strong>, i am also available on discord <strong>LyonsF#7324</strong>. You can contact me for your projects, or you can contact me if you need help about programming during your study journey, i know how it's hard to be alone in front of this huge montain programming world.</p>
 <br />
 
-You can join me here: [studytogether](https://app.studytogether.com/study-stats) I am working or studying there almost everyday, you can join us if you need company during your lonely work or study.
+You can join me on [studytogether](https://app.studytogether.com/study-stats). I am working or studying there almost everyday, you can join us if you need company during your work or study, the community is awesome!
 
 ---
 
