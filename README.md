@@ -11,7 +11,7 @@ Vous pouvez me rejoindre sur [studytogether](https://app.studytogether.com/study
 
 :gb:
 
-<p>My name is François Lyons, i am a developper enthusiast. I didn't do a conventionnal path at all, i started as a plumber :construction_worker: . And then i decided to follow my dreams and being a self-taught full-stack developper. So far i'm working on personnal projects but someday i will make yours :relaxed: ! You can contact me here or by email: <strong>lyons.fr55@gmail.com</strong>, i am also available on discord <strong>LyonsF#7324</strong>. You can contact me for your projects, or you can contact me if you need help about programming during your study journey, i know how it's hard to be alone in front of this huge montain programming world.</p>
+<p>My name is François Lyons, i am a developper enthusiast. I didn't do a conventionnal path at all, i started as a plumber :construction_worker: . And then i decided to follow my dreams and being a self-taught full-stack developper. So far i'm working on personnal projects but someday i will make yours :relaxed: ! You can contact me here or by email: <strong>lyons.fr55@gmail.com</strong>. You can contact me for your projects, or you can contact me if you need help about programming during your study journey, i know how it's hard to be alone in front of this huge montain programming world.</p>
 <br />
 
 You can join me on [studytogether](https://app.studytogether.com/study-stats). I am working or studying there almost everyday, you can join us if you need company during your work or study, the community is awesome!
