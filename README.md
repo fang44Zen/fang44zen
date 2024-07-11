@@ -2,7 +2,7 @@
 
 :fr:
 
-<p>Je m'appelle François, je suis passionnée de programmation. Je n'ai pas un parcours conventionnel du tout, j'ai commencé en tant que plombier :construction_worker: . Et j'ai décidé de poursuivre mes rêves et devenir un developpeur fullstack en autodidact. Pour le moment je travail sur des projets personnels mais un jour je réaliserai les votre :relaxed: ! Vous pouvez me contacter ici ou par email: <strong>lyons.fr55@gmail.com</strong>. Vous pouvez me contacter pour vos projets, ou si vous avez besoin d'aide en programmation, je sais à quel point c'est difficile d'être seul face à cette enorme montagne. Ou simplement dire bonjour</p>
+<p>De plombier :construction_worker: . Et j'ai décidé de poursuivre mes rêves et devenir un developpeur fullstack en autodidact. Pour le moment je travail sur des projets personnels mais un jour je réaliserai les votre :relaxed: ! Vous pouvez me contacter ici ou par email: <strong>lyons.fr55@gmail.com</strong>. Vous pouvez me contacter pour vos projets, ou si vous avez besoin d'aide en programmation, je sais à quel point c'est difficile d'être seul face à cette enorme montagne. Ou simplement dire bonjour</p>
 <br />
 
 
