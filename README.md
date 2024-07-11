@@ -6,19 +6,20 @@
 
 ---
 
-## Languages:
+### Languages:
 [![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css)](https://skillicons.dev)
 
 ---
-## Frameworks
+### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=spring,react,vue,vuejs,nodejs,sass)](https://skillicons.dev)
 
 ---
-## Tools,db & other:
-[![My Skills](https://skillicons.dev/icons?i=vuetify,firebase,tailwind,materialui,figma,docker,postgres,cassandra,linux)](https://skillicons.dev)
+### Tools,db & other:
+[![My Skills](https://skillicons.dev/icons?i=vuetify,firebase,tailwind,materialui,figma,postgres,cassandra)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=eclipse,vscodium,docker,git,linux)](https://skillicons.dev)
 
 ---
 
-## Incoming Languages & tools:
+### Incoming Languages & tools:
 [![My Skills](https://skillicons.dev/icons?i=py,go,lua)](https://skillicons.dev)
 <img align="left" alt="golang" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
