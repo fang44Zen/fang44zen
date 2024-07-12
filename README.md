@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>De plombier :construction_worker: à developpeur :computer:</p>
+<p>De plombier :construction_worker: à développeur  :computer:</p>
 <br />
 <p>Currently work for CSI :computer:</p>
 
