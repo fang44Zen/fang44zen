@@ -21,4 +21,4 @@
 ---
 
 ### Incoming Languages & tools:
-[![My Skills](https://skillicons.dev/icons?i=py,go,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,lua,mongodb,aws)](https://skillicons.dev)
