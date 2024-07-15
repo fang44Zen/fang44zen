@@ -16,7 +16,7 @@
 ---
 ### Tools,db & other:
 [![My Skills](https://skillicons.dev/icons?i=vuetify,firebase,tailwind,materialui,figma,postgres,cassandra)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=eclipse,vscodium,docker,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=eclipse,vscodium,docker,git,linux,obsidian)](https://skillicons.dev)
 
 ---
 
