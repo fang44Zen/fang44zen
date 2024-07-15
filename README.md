@@ -11,7 +11,7 @@
 
 ---
 ### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=spring,react,vue,nodejs,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,react,vue,gatsby,nodejs,sass)](https://skillicons.dev)
 
 ---
 ### Tools,db & other:
