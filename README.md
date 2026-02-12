@@ -2,7 +2,7 @@
 
 <p> :construction_worker: & :computer:</p>
 <br />
-<p>Currently work for CSI :computer:</p>
+<p>DEV & plumber</p>
 
 ---
 
